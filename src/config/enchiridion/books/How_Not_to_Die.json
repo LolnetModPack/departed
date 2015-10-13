@@ -1,0 +1,1732 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "SCRUBS DON\u0027T SKIP",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FFFF0000",
+            "xPos": 224,
+            "yPos": 19,
+            "width": 231.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "You\u0027ve met with a terrible fate, haven\u0027t you? In singleplayer, reading a book will pause your game, so you\u0027re probably safe. Mostly. You can also press H (by default) to open the Library. Anyways, the first thing you want to do is craft a wooden sword. Before anything else. This world is hostile and positively infested with things that would like no better than to eat you alive. This book will give you tips on how to avoid that fate if possible. Naw, you\u0027ll probably die many times before your journey is over. So go craft your sword and let\u0027s get started!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 43,
+            "width": 168.0,
+            "height": 143.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Departed_Panel.png",
+            "xPos": 30,
+            "yPos": 19,
+            "width": 172.0,
+            "height": 123.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "They say that every journey begins somewhere...\nNow, it appears that you are about to start your own.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF9400D3",
+            "xPos": 38,
+            "yPos": 159,
+            "width": 159.0,
+            "height": 36.0
+          }
+        }
+      ],
+      "pageName": "Home"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Getting Started Index",
+            "texture": "",
+            "xPos": 27,
+            "yPos": 19,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Ancient Teleportation",
+            "texture": "",
+            "xPos": 92,
+            "yPos": 19,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FFB0C4DE",
+            "xPos": 27,
+            "yPos": 19,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:helmetWood",
+            "xPos": 37,
+            "yPos": 27,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Getting Started",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 79,
+            "width": 53.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FFB0C4DE",
+            "xPos": 93,
+            "yPos": 19,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneDeeplands",
+            "xPos": 102,
+            "yPos": 29,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "    Ancient Teleportation",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 82,
+            "yPos": 77,
+            "width": 89.0,
+            "height": 21.0
+          }
+        }
+      ],
+      "pageName": "Table of Contents"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Basic Survival",
+            "texture": "",
+            "xPos": 30,
+            "yPos": 20,
+            "width": 95.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Base Security",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 41,
+            "width": 110.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Full Moon",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 62,
+            "width": 114.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Bloodhunt",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 89,
+            "width": 114.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Ores",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 109,
+            "width": 128.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Runes and Tinkers",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 135,
+            "width": 126.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Basic Defence",
+            "texture": "",
+            "xPos": 28,
+            "yPos": 157,
+            "width": 99.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Basic Survival\n\nSecuring a Base\n\nEvent: Full Moon\n\nEvent: Bloodhunt\n\nOres and Materials\n\nRunes and Tinkers\n\nBasic Defence",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 33,
+            "yPos": 21,
+            "width": 140.0,
+            "height": 171.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 202,
+            "yPos": 188,
+            "width": 23.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 197,
+            "yPos": 181,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "Getting Started Index"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Great. You got your sword, and hopefully a crafting table. Now that you have a weapon, you aren\u0027t completely helpless, but now you need armor. Wooden armor isn\u0027t very good, but it\u0027s better than bare skin.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 61,
+            "yPos": 23,
+            "width": 126.0,
+            "height": 105.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:helmetWood",
+            "xPos": 21,
+            "yPos": 17,
+            "width": 27.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:chestplateWood",
+            "xPos": 20,
+            "yPos": 37,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:leggingsWood",
+            "xPos": 19,
+            "yPos": 68,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:bootsWood",
+            "xPos": 19,
+            "yPos": 96,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Also look out for gardens. You\u0027ll need the food, as variety matters. Right click them to pick them up.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 132,
+            "width": 173.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:desertgarden",
+            "xPos": 73,
+            "yPos": 182,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:berrygarden",
+            "xPos": 48,
+            "yPos": 163,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:grassgarden",
+            "xPos": 71,
+            "yPos": 164,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:gourdgarden",
+            "xPos": 97,
+            "yPos": 162,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:groundgarden",
+            "xPos": 125,
+            "yPos": 165,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:tropicalgarden",
+            "xPos": 147,
+            "yPos": 161,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:watergarden",
+            "xPos": 99,
+            "yPos": 189,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:leafygarden",
+            "xPos": 50,
+            "yPos": 185,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:stalkgarden",
+            "xPos": 122,
+            "yPos": 188,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:mushroomgarden",
+            "xPos": 147,
+            "yPos": 181,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Biomes to Avoid",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 18,
+            "width": 166.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Savannah",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 221,
+            "yPos": 42,
+            "width": 60.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Filled with hunter mobs that you can\u0027t damage until a bit later on. Check the Hunter\u0027s Handbook for more information.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 242,
+            "yPos": 55,
+            "width": 151.0,
+            "height": 41.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Desert",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 224,
+            "yPos": 100,
+            "width": 51.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Sphynxes have melee resistance, meaning they cannot be damaged by any melee weapons.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 241,
+            "yPos": 110,
+            "width": 156.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Taiga",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 224,
+            "yPos": 146,
+            "width": 53.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Hiding mushrooms are high-level hunter mobs. You won\u0027t be killing them anytime soon. There\u0027s also skolles, which can teleport inside your base.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 241,
+            "yPos": 158,
+            "width": 168.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 196,
+            "yPos": 180,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 195,
+            "yPos": 181,
+            "width": 32.0,
+            "height": 30.0
+          }
+        }
+      ],
+      "pageName": "Basic Survival"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Building Your Base",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 40,
+            "yPos": 21,
+            "width": 167.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Building a secure base is rather specific. Most overworld mobs spawn during day and night, and bloodhunt mobs can shoot you off a platform rather easily. So follow the following tips and you should be okay",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 27,
+            "yPos": 36,
+            "width": 168.0,
+            "height": 138.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Build above y\u003d64. A lot of mobs spawn underground, and ignore the next rule.\n\n-Use unnatural blocks as flooring. This means no dirt, grass, stone, etc.\n\n-Light it up as normal. AoA mobs may not be able to spawn, but vanilla mobs can.\n\n-seperate sections of your base with doors. Sasquatches and warclops spawn regardless. \n\n-If you really want to be completely secure, replace the floor with slabs, stairs, glass, etc.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 24,
+            "width": 168.0,
+            "height": 166.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 197,
+            "yPos": 179,
+            "width": 30.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 195,
+            "yPos": 181,
+            "width": 33.0,
+            "height": 29.0
+          }
+        }
+      ],
+      "pageName": "Base Security"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Events",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 75,
+            "yPos": 22,
+            "width": 54.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "In the overworld, there are two rather dangerous but potentially rewarding events. One is the Bloodhunt, which has a 20% chance to happen each night, and a Full Moon. The next page details their rewards. At the time being, you are probably too squishy to even think about hunting in these things. The mobs will annihilate you. You need at least diamond-level armor and limonite weaponry to participate. The most notable resource obtained from events is Moondust. It is needed for ender chests, ender tanks, and tablets.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 39,
+            "width": 181.0,
+            "height": 145.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:Moonstone",
+            "xPos": 91,
+            "yPos": 183,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are two mobs in particular that spawn during a full moon. The first you want to kill at all costs. The other you want to avoid at all costs.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 22,
+            "width": 164.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Terrestrial.png",
+            "xPos": 208,
+            "yPos": 78,
+            "width": 57.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Terrestrial spawns during the Full Moon event. It is a rare mob that spawns a portal to Lunalus on death. KILL ON SIGHT!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 270,
+            "yPos": 82,
+            "width": 120.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Skellox.png",
+            "xPos": 212,
+            "yPos": 141,
+            "width": 61.0,
+            "height": 56.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Skellox has very high speed, and health. It is a formidable foe that should be avoided if possible.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 272,
+            "yPos": 145,
+            "width": 119.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 195,
+            "yPos": 178,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 194,
+            "yPos": 178,
+            "width": 33.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "Full Moon"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Events Part 2: ",
+            "wrap": 0,
+            "size": 1.4000001,
+            "color": "FF555555",
+            "xPos": 34,
+            "yPos": 22,
+            "width": 115.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Bloodhunt",
+            "wrap": 0,
+            "size": 1.4000001,
+            "color": "FFFF0000",
+            "xPos": 139,
+            "yPos": 21,
+            "width": 66.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Bloodhunt is a later-game event. When one has started, you\u0027ll see in chat: \"The Hunt For Blood has Begun!\" First and foremost, DO NOT SLEEP DURING A BLOODHUNT! If you sleep, the bloodhunt will continue into the day. The best way to avoid it is to take shelter for the night. Each bloodhunt mob drops an Abyss Realmstone, which can be used to access the Abyss. It is suggested to wait until you have better equipment before attempting this realm. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 33,
+            "yPos": 41,
+            "width": 165.0,
+            "height": 149.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Anemia.png",
+            "xPos": 218,
+            "yPos": 16,
+            "width": 56.0,
+            "height": 58.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Anemia is a flying mob that shoots exploding projectiles. These don\u0027t damage terrain, but they do blow up items and hurt quite a bit. Anemias are immune to guns.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF555555",
+            "xPos": 273,
+            "yPos": 24,
+            "width": 131.0,
+            "height": 58.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Bloodmist.png",
+            "xPos": 216,
+            "yPos": 84,
+            "width": 48.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Blloodmist (not to be confused with the beta tester) is a melee mob that drains vitality on hit. It\u0027s the weakest bloodhunt mob.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 276,
+            "yPos": 95,
+            "width": 128.0,
+            "height": 53.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Linger.png",
+            "xPos": 211,
+            "yPos": 149,
+            "width": 60.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Linger fires fast explosive projectiles, similar to the Anemia. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 277,
+            "yPos": 164,
+            "width": 115.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneAbyss",
+            "xPos": 88,
+            "yPos": 178,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 196,
+            "yPos": 183,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 196,
+            "yPos": 185,
+            "width": 32.0,
+            "height": 31.0
+          }
+        }
+      ],
+      "pageName": "Bloodhunt"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Ores and Materials",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 46,
+            "yPos": 21,
+            "width": 166.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are five new ores in the overworld that are probably quite new to you. These ores are Amethyst, Limonite, Rosite, Jade, Sapphire, and Runium.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 44,
+            "width": 173.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreAmethyst",
+            "xPos": 27,
+            "yPos": 99,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Amethyst is useful for the creation forge and infusion altar, but not too useful for tools or anything else really. Found below level 40",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF9400D3",
+            "xPos": 63,
+            "yPos": 95,
+            "width": 148.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreJade",
+            "xPos": 25,
+            "yPos": 156,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Jade is incredibly useful. Its main purpose is to create various utility armor sets that can grant buffs like poison immunity, resistance, speed, and so much more. Fould below level 20.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF2E8B57",
+            "xPos": 64,
+            "yPos": 146,
+            "width": 146.0,
+            "height": 58.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreLimonite",
+            "xPos": 217,
+            "yPos": 22,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Limonite is the most common overworld ore. It is useful for cheap but powerful tools and for crafting ammunition for various weapons. Found below level 30.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFD2691E",
+            "xPos": 258,
+            "yPos": 23,
+            "width": 137.0,
+            "height": 43.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreRosite",
+            "xPos": 218,
+            "yPos": 82,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Rosite is useful mainly for repairing weapons and armor. Especially useful when used in tangent with timeless ivy. Found rarely below level 30.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFDA70D6",
+            "xPos": 257,
+            "yPos": 76,
+            "width": 145.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreSapphire",
+            "xPos": 216,
+            "yPos": 138,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Sapphire is the rarest overworld ore. It is also the most powerful ore for making weapons. It is also used for a few armor sets.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF0000FF",
+            "xPos": 258,
+            "yPos": 128,
+            "width": 145.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 292,
+            "yPos": 175,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 295,
+            "yPos": 178,
+            "width": 30.0,
+            "height": 29.0
+          }
+        }
+      ],
+      "pageName": "Ores"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Runes and Staves",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 50,
+            "yPos": 20,
+            "width": 167.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Runium is used to make runes, which are used as fuel for staves. Found below level 20.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 70,
+            "yPos": 40,
+            "width": 144.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:oreRunium",
+            "xPos": 21,
+            "yPos": 39,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WindRune",
+            "xPos": 25,
+            "yPos": 98,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The most basic rune is the Wind Rune. To make it, use an Unpowered Rune on a Rune Shrine.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 70,
+            "yPos": 94,
+            "width": 137.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WindStaff",
+            "xPos": 23,
+            "yPos": 151,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The wind staff is a cheap and weak staff that is fueled by wind runes. You must put the runes in a rune pouch in order to use them.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 148,
+            "width": 137.0,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Thanks to the wonderful Glassmaker, we have AoA support in extraTiC! You can make tinkers tools and weapons from any overworld metals! Check them out in NEI!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 240,
+            "yPos": 79,
+            "width": 158.0,
+            "height": 57.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:hammer {InfiTool:{Unbreaking:0,Extra:197,MiningSpeed2:600,HarvestLevel:4,Built:1b,Modifiers:3,RenderHead:197,Handle:197,BaseAttack:9,RenderHandle:197,Attack:9,ModDurability:0.0f,BonusDurability:0,Broken:0b,HarvestLevelExtra:4,RenderAccessory:197,Damage:0,Head:197,BaseDurability:3600,RenderExtra:197,MiningSpeedExtra:600,Accessory:197,HarvestLevel2:4,Shoddy:0.0f,MiningSpeed:600,TotalDurability:3600},display:{Name:\"§fLimonite Hammer\"}}",
+            "xPos": 232,
+            "yPos": 17,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:ThrowingKnife {InfiTool:{Unbreaking:0,Damage:0,HarvestLevel:4,Head:197,Built:1b,BaseDurability:400,Modifiers:3,RenderHead:197,Handle:197,BaseAttack:7,Shoddy:0.0f,RenderHandle:197,Attack:7,MiningSpeed:600,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:400},display:{Name:\"§fLimonite Throwing Knife\"}}",
+            "xPos": 361,
+            "yPos": 150,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:frypan {InfiTool:{Unbreaking:0,Damage:0,HarvestLevel:4,Head:192,Built:1b,BaseDurability:1500,Modifiers:3,RenderHead:192,Handle:192,BaseAttack:5,Shoddy:0.0f,RenderHandle:192,Attack:5,MiningSpeed:800,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:1500},display:{Name:\"§fAmethyst Frying Pan\"}}",
+            "xPos": 276,
+            "yPos": 18,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:hatchet {InfiTool:{Unbreaking:0,Damage:0,HarvestLevel:4,Head:196,Built:1b,BaseDurability:2000,Modifiers:3,RenderHead:196,Handle:196,BaseAttack:13,Shoddy:0.0f,RenderHandle:196,Attack:13,MiningSpeed:1100,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:2000},display:{Name:\"§fJade Hatchet\"}}",
+            "xPos": 314,
+            "yPos": 18,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:cutlass {InfiTool:{Unbreaking:0,Damage:0,HarvestLevel:4,Head:199,Built:1b,BaseDurability:3000,Accessory:199,Modifiers:3,RenderHead:199,BaseAttack:17,Handle:199,Shoddy:0.0f,Attack:17,RenderHandle:199,MiningSpeed:1200,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:3000,RenderAccessory:199},display:{Name:\"§fSapphire Cutlass\"}}",
+            "xPos": 354,
+            "yPos": 16,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:pickaxe {InfiTool:{Unbreaking:0,Damage:0,HarvestLevel:4,Head:199,Built:1b,BaseDurability:2000,Accessory:199,Modifiers:3,RenderHead:199,BaseAttack:14,Handle:199,Shoddy:0.0f,Attack:14,RenderHandle:199,MiningSpeed:1200,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:2000,RenderAccessory:199},display:{Name:\"§fSapphire Pickaxe\"}}",
+            "xPos": 236,
+            "yPos": 150,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:ShortBow {InfiTool:{Unbreaking:0,Damage:0,MiningSpeed2:1100,HarvestLevel:4,Head:196,Built:1b,BaseDurability:3000,Accessory:196,Modifiers:3,RenderHead:196,BaseAttack:10,Handle:0,HarvestLevel2:4,Shoddy:0.0f,Attack:10,RenderHandle:0,MiningSpeed:1100,ModDurability:0.0f,BonusDurability:0,Broken:0b,TotalDurability:3000,RenderAccessory:196},display:{Name:\"§fJade Shortbow\"}}",
+            "xPos": 271,
+            "yPos": 149,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:Crossbow {InfiTool:{Unbreaking:0,Damage:0,Extra:192,HarvestLevel:4,Head:192,Built:1b,BaseDurability:1500,RenderExtra:192,Accessory:0,Modifiers:3,RenderHead:192,BaseAttack:3,Handle:192,Shoddy:0.0f,Attack:3,RenderHandle:192,MiningSpeed:800,ModDurability:0.0f,Broken:0b,BonusDurability:0,TotalDurability:1500,RenderAccessory:0},display:{Name:\"§fAmethyst Crossbow\"}}",
+            "xPos": 315,
+            "yPos": 149,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 225,
+            "yPos": 183,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 229,
+            "yPos": 187,
+            "width": 27.0,
+            "height": 26.0
+          }
+        }
+      ],
+      "pageName": "Runes and Tinkers"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Basic Defense",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 61,
+            "yPos": 22,
+            "width": 130.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Horizon Maul is an early game sword that has high damage and slows enemies.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 59,
+            "yPos": 41,
+            "width": 125.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:HorizonMaul",
+            "xPos": 20,
+            "yPos": 41,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/Mother_Void_Walker.png",
+            "xPos": 261,
+            "yPos": 22,
+            "width": 108.0,
+            "height": 78.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Mother Void Walker spawns below level 20. She blinds you on hit and has decent amounts of health and damage, but drops armor equivalent to diamond, plus a pretty good bow.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 230,
+            "yPos": 111,
+            "width": 160.0,
+            "height": 60.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:SpeedBow",
+            "xPos": 26,
+            "yPos": 94,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The speed bow has an absurdly high fire speed and a decent amount of damage.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 94,
+            "width": 118.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:VoidHelmet",
+            "xPos": 220,
+            "yPos": 167,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:VoidChestplate",
+            "xPos": 250,
+            "yPos": 165,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:VoidLeggings",
+            "xPos": 281,
+            "yPos": 166,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:VoidBoots",
+            "xPos": 314,
+            "yPos": 167,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:VoidBow",
+            "xPos": 355,
+            "yPos": 168,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WeakenHelmet",
+            "xPos": 22,
+            "yPos": 146,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Weaken Armor gives you the resistance potion buff. Useful general-purpose armor.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 66,
+            "yPos": 149,
+            "width": 135.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 197,
+            "yPos": 184,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 197,
+            "yPos": 184,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "Basic Defence"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "How_Not_to_Die/2015-05-21_21.17.14.png",
+            "xPos": 24,
+            "yPos": 17,
+            "width": 180.0,
+            "height": 102.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Ancient Teleporter is used to teleport to other dimensions. This structure is 15x11 blocks and a total of 8 blocks tall. This can be reused as long as you have realmstones to use.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 29,
+            "yPos": 139,
+            "width": 170.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:AncientTeleporterBlueprint",
+            "xPos": 227,
+            "yPos": 27,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "To create an ancient teleporter, craft an Ancient Teleporter Blueprint and use it where you want the center to be.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 265,
+            "yPos": 24,
+            "width": 141.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:CarvedRune4",
+            "xPos": 222,
+            "yPos": 89,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "To activate the teleporter, use a realmstone on the circular rune on the front of the structure.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 264,
+            "yPos": 88,
+            "width": 137.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "WARNING! While you can create a teleporter in another dimension, it will teleport you to the corresponding overworld location instead of the portal you built. Only use this if hopelessly lost in a dimension.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFFF0000",
+            "xPos": 232,
+            "yPos": 130,
+            "width": 165.0,
+            "height": 55.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 197,
+            "yPos": 180,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 199,
+            "yPos": 181,
+            "width": 30.0,
+            "height": 29.0
+          }
+        }
+      ],
+      "pageName": "Ancient Teleportation"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Dimensions Available from the Overworld",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 21,
+            "width": 170.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneAbyss",
+            "xPos": 30,
+            "yPos": 64,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Abyss is a challenging world made of flesh and blood. Not reccomended for new players. Dropped by bloodhunt mobs.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFFF0000",
+            "xPos": 68,
+            "yPos": 59,
+            "width": 139.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstonePrecasia",
+            "xPos": 29,
+            "yPos": 105,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Precasia is the realm of the ancient. This is also no too easy as there are a lot of immune mobs out and about. Dropped by jungle-residing mobs.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF006400",
+            "xPos": 68,
+            "yPos": 100,
+            "width": 138.0,
+            "height": 45.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneHaven",
+            "xPos": 30,
+            "yPos": 152,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Haven is a skylands realm full of monsters that want to send you to the Void. Prepare accordingly. Dropped by goalbys, which spawn in extreme hills.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFFF00FF",
+            "xPos": 67,
+            "yPos": 150,
+            "width": 146.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneMysterium",
+            "xPos": 224,
+            "yPos": 16,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Mysterium is a fungal realm that exists inside the imaginations of the eeos who inhabit it. Poison armor is highly reccomended as many mobs cause poison. Dropped by bugeyes.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF9400D3",
+            "xPos": 258,
+            "yPos": 19,
+            "width": 149.0,
+            "height": 41.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneDeeplands",
+            "xPos": 223,
+            "yPos": 70,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The deeplands is a cave dimension. It\u0027s relatively tame, and contain some useful loot. The ores are in the roof here. Dropped by many underground dwelling mobs.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF808000",
+            "xPos": 257,
+            "yPos": 70,
+            "width": 141.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:RealmstoneCeleve",
+            "xPos": 224,
+            "yPos": 127,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Celeve is a clown based dimension. All of the mobs inflict some sort of status effect, so it is reccomended to take a staff of webs from the web reapers in the Abyss.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFDAA520",
+            "xPos": 258,
+            "yPos": 122,
+            "width": 150.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 291,
+            "yPos": 178,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 292,
+            "yPos": 178,
+            "width": 32.0,
+            "height": 31.0
+          }
+        }
+      ],
+      "pageName": "Dimensions"
+    },
+    {
+      "features": [],
+      "pageName": ""
+    }
+  ],
+  "displayNames": {
+    "en_US": "How Not to Die"
+  },
+  "uniqueName": "How_Not_to_Die",
+  "color": 16711680,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0
+}

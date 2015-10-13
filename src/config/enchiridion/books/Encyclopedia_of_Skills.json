@@ -1,0 +1,1489 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/ybSfe1l.png",
+            "xPos": 21,
+            "yPos": 19,
+            "width": 178.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Skills are special abilities you can level up by performing different tasks. Skills allow you to perform many interesting tasks, like shooting fifty blocks into the air, enchanting weapons, summoning powerful allies to aid you in battle, and more!\n\nThe skills HUD is opened by the \u0027C\u0027 key by default, and can be rebound as you wish.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 81,
+            "width": 181.0,
+            "height": 111.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Skills have a maximum level of one hundred, and where applicable, higher level tasks usually give more experience. For example, a Compeer slab gives you more creation XP than a penguin slab would. \n\nEach skill also has its own set of armor that boosts it in some way. For example, Foraging Armor doubles your high-level foraging drops. For more information on these armor sets, look in the Armor Catalogue.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 16,
+            "width": 171.0,
+            "height": 174.0
+          }
+        }
+      ],
+      "pageName": "Home"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Runation",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 67,
+            "yPos": 71,
+            "width": 92.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Innervation",
+            "texture": "",
+            "xPos": 21,
+            "yPos": 18,
+            "width": 162.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Innervation",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 64,
+            "yPos": 29,
+            "width": 113.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Infusion",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 66,
+            "yPos": 119,
+            "width": 103.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/InnervationIcon.png",
+            "xPos": 21,
+            "yPos": 18,
+            "width": 32.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/RunationIcon.png",
+            "xPos": 20,
+            "yPos": 61,
+            "width": 35.0,
+            "height": 36.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Runation",
+            "texture": "",
+            "xPos": 20,
+            "yPos": 60,
+            "width": 164.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/InfusionIcon.png",
+            "xPos": 20,
+            "yPos": 104,
+            "width": 35.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Infusion",
+            "texture": "",
+            "xPos": 20,
+            "yPos": 105,
+            "width": 164.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/ForagingIcon.png",
+            "xPos": 20,
+            "yPos": 148,
+            "width": 34.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Foraging",
+            "texture": "",
+            "xPos": 19,
+            "yPos": 148,
+            "width": 165.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Augury",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 259,
+            "yPos": 27,
+            "width": 79.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Foraging",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 68,
+            "yPos": 158,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/AuguryIcon.png",
+            "xPos": 218,
+            "yPos": 16,
+            "width": 32.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 219,
+            "yPos": 16,
+            "width": 164.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/CreationSkillIcon.png",
+            "xPos": 218,
+            "yPos": 55,
+            "width": 32.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 219,
+            "yPos": 57,
+            "width": 164.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Creation",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 259,
+            "yPos": 66,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/HunterIcon.png",
+            "xPos": 218,
+            "yPos": 96,
+            "width": 32.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 219,
+            "yPos": 97,
+            "width": 164.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Hunter",
+            "wrap": 0,
+            "size": 1.6000001,
+            "color": "FF555555",
+            "xPos": 263,
+            "yPos": 108,
+            "width": 65.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/VitalityIcon.png",
+            "xPos": 219,
+            "yPos": 137,
+            "width": 31.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 219,
+            "yPos": 137,
+            "width": 164.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Vitality",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 259,
+            "yPos": 147,
+            "width": 50.0,
+            "height": 50.0
+          }
+        }
+      ],
+      "pageName": "Table of Contents 1"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/AnimaIcon.png",
+            "xPos": 26,
+            "yPos": 19,
+            "width": 35.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 26,
+            "yPos": 19,
+            "width": 170.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Anima",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 73,
+            "yPos": 31,
+            "width": 65.0,
+            "height": 17.0
+          }
+        }
+      ],
+      "pageName": "Table of Contents 2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:HeartStone",
+            "xPos": 120,
+            "yPos": 134,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/InnervationIcon.png",
+            "xPos": 70,
+            "yPos": 20,
+            "width": 78.0,
+            "height": 74.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Innervation",
+            "wrap": 0,
+            "size": 2.4999998,
+            "color": "FF555555",
+            "xPos": 34,
+            "yPos": 99,
+            "width": 158.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Innervation is levelled up by picking up heartstones, which are dropped by mobs.  \nHeartstones heal you for a certain amount of health. Higher levels heal more hearts. It also gives a passive dodge or regeneration buff on hit. Both cannot trigger at once.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 34,
+            "yPos": 120,
+            "width": 165.0,
+            "height": 68.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 24,
+            "yPos": 19,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Heartstone Healing Levels:\n    \n    Level 15: 1 Heart\n    Level 30: 2 Hearts\n    Level 45: 3 Hearts\n    Level 60: 4 Hearts\n    Level 75: 5 Hearts\n    Level 90: 7 Hearts\n    Level 99: 10 Hearts\n\nDodge/Regen Chance:\n\n    Level 15: 3.3%\n    Level 30: 5%\n    Level 50: 10%\n    Level 70: 14%\n    Level 90: 25%",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 224,
+            "yPos": 22,
+            "width": 176.0,
+            "height": 169.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 24,
+            "yPos": 19,
+            "width": 19.0,
+            "height": 18.0
+          }
+        }
+      ],
+      "pageName": "Innervation"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/RunationIcon.png",
+            "xPos": 70,
+            "yPos": 19,
+            "width": 78.0,
+            "height": 75.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 21,
+            "yPos": 18,
+            "width": 28.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 24,
+            "yPos": 19,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Runation",
+            "wrap": 0,
+            "size": 2.4999998,
+            "color": "FF555555",
+            "xPos": 58,
+            "yPos": 99,
+            "width": 105.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Runation is levelled up by crafting runes on a Rune Shrine. Higher runation levels allow you to craft different runes. To craft a rune, use the required blank rune on its shrine. rune shrine. Rune posts are found in constructed rune shrines in different dimensions. Runes are used to power staffs.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 24,
+            "yPos": 118,
+            "width": 180.0,
+            "height": 84.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/2015-05-15_15.10.30.png",
+            "xPos": 221,
+            "yPos": 18,
+            "width": 194.0,
+            "height": 88.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This is an example of a fire rune shrine, found in the Nether. The red blocks are the posts, and are unbreakable. There are two types of blank runes, Unpowered Runes, and Charged Runes. Unpowered runes are crafted from runium, found in the Overworld. Charged runes are crafted from Charged Runium, found in the Deeplands.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 111,
+            "width": 179.0,
+            "height": 82.0
+          }
+        }
+      ],
+      "pageName": "Runation"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WindRune",
+            "xPos": 30,
+            "yPos": 44,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 22,
+            "yPos": 18,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 20,
+            "yPos": 15,
+            "width": 26.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Wind Rune\n    Level Required: 0\n    No rune post required.\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 54,
+            "yPos": 35,
+            "width": 165.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:FireRune",
+            "xPos": 31,
+            "yPos": 79,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Fire Rune\n    Level Required: 8\n    Shrine Location: Nether\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 59,
+            "yPos": 77,
+            "width": 167.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WaterRune",
+            "xPos": 31,
+            "yPos": 124,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Water Rune\n    Level Required: 15\n    Shrine Location: L\u0027Borean\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 58,
+            "yPos": 117,
+            "width": 166.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:PoisonRune",
+            "xPos": 30,
+            "yPos": 166,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Poison Rune\n    Level Required: 22\n    Shrine Location: Vox Ponds\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 59,
+            "yPos": 157,
+            "width": 166.0,
+            "height": 53.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:WitherRune",
+            "xPos": 223,
+            "yPos": 43,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Wither Rune\n    Level Required: 30\n    Shrine Location: The Abyss\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 249,
+            "yPos": 34,
+            "width": 179.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:LunarRune",
+            "xPos": 223,
+            "yPos": 81,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Lunar Rune\n    Level Required: 32\n    Shrine Location: Lunalus\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 249,
+            "yPos": 74,
+            "width": 162.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:EnergyRune",
+            "xPos": 221,
+            "yPos": 121,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Energy Rune\n    Level Required: 36\n    Shrine Location: Iromine\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 250,
+            "yPos": 113,
+            "width": 167.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:StrikeRune",
+            "xPos": 221,
+            "yPos": 155,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Strike Rune\n    Level Required: 42\n    Shrine Location: The Haven\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 250,
+            "yPos": 154,
+            "width": 170.0,
+            "height": 29.0
+          }
+        }
+      ],
+      "pageName": "Runes 1"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 23,
+            "yPos": 14,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 22,
+            "yPos": 14,
+            "width": 25.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:StormRune",
+            "xPos": 27,
+            "yPos": 47,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Storm Rune\n    Level Required: 49\n    Shrine Location: Greckon\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 52,
+            "yPos": 40,
+            "width": 162.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:KineticRune",
+            "xPos": 27,
+            "yPos": 86,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Kinetic Rune\n    Level Required: 54\n    Shrine Location: Gardencia\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 53,
+            "yPos": 80,
+            "width": 167.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:PowerRune",
+            "xPos": 27,
+            "yPos": 127,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Power Rune\n    Level Required: 59\n    Shrine Location: Barathos\n    Unpowered Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 53,
+            "yPos": 121,
+            "width": 176.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:CompassRune",
+            "xPos": 28,
+            "yPos": 168,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Compass Rune\n    Level Required: 63\n    Shrine Location: Celeve\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 57,
+            "yPos": 160,
+            "width": 169.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:DistortionRune",
+            "xPos": 222,
+            "yPos": 43,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Distortion Rune\n    Level Required: 65\n    Shrine Location: Mysterium\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 251,
+            "yPos": 41,
+            "width": 181.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:LifeRune",
+            "xPos": 225,
+            "yPos": 87,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Life Rune\n    Level Required: 74\n    Precasia\n    Charged Rune",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 253,
+            "yPos": 82,
+            "width": 157.0,
+            "height": 37.0
+          }
+        }
+      ],
+      "pageName": "Runes 2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/InfusionIcon.png",
+            "xPos": 70,
+            "yPos": 20,
+            "width": 78.0,
+            "height": 75.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 30,
+            "yPos": 19,
+            "width": 21.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Infusion",
+            "wrap": 0,
+            "size": 2.4999998,
+            "color": "FF555555",
+            "xPos": 62,
+            "yPos": 99,
+            "width": 107.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 28,
+            "yPos": 18,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Infusion is all about custom enchantments. Some enchants are only applicable through infusion, like anything on guns or energy weapons. There are two ways to level up infusion: capturing pixons and using infusion stones on an Infusion Table.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 25,
+            "yPos": 122,
+            "width": 175.0,
+            "height": 71.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/2015-05-15_22.01.18.png",
+            "xPos": 221,
+            "yPos": 14,
+            "width": 176.0,
+            "height": 100.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This is a Glistening Pixon in its natural habitat. Pixons can be captured by using a stone bowl on it. You may have to click around to find the right spot. They drop Infusion Stones, which can be used on the infusion altar for a small chance to get a Power Stone, which is used to enchant.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 220,
+            "yPos": 118,
+            "width": 188.0,
+            "height": 74.0
+          }
+        }
+      ],
+      "pageName": "Infusion"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Pixons:",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 49,
+            "yPos": 18,
+            "width": 63.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Glistening:\n    Spawn Dimension: Overworld\n                         Gardencia\n    Level Required: 1\n\nGleaming:\n    Spawn Dimension: Runandor\n    Level Required: 10\n\nGlaring:\n    Spawn Dimension: Lelyetia\n    Level Required: 25\n\nGlowing:\n    Spawn Dimension: L\u0027Borean\n    Level Required: 40",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 38,
+            "width": 165.0,
+            "height": 144.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Shining:\n    Spawn Dimension: The Abyss\n    Level Required: 60\n\nRadiant:\n    Spawn Dimension: Dustopia\n    Level Required: 72\n\nBlooming:\n    Spawn Dimension: Mysterium\n    Level Required: 81",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 35,
+            "width": 173.0,
+            "height": 151.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 22,
+            "yPos": 14,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 22,
+            "yPos": 14,
+            "width": 23.0,
+            "height": 23.0
+          }
+        }
+      ],
+      "pageName": "Pixons"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Infusion Stones",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 52,
+            "yPos": 21,
+            "width": 146.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 20,
+            "yPos": 14,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 21,
+            "yPos": 16,
+            "width": 24.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Glistening:\n    Level Required: 5",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 50,
+            "yPos": 50,
+            "width": 154.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneGlistening",
+            "xPos": 24,
+            "yPos": 48,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneGleaming",
+            "xPos": 24,
+            "yPos": 83,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Gleaming:\n    Level Required: 15",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 51,
+            "yPos": 85,
+            "width": 127.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneGlaring",
+            "xPos": 25,
+            "yPos": 115,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Glaring:\n    Level Required: 30",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 54,
+            "yPos": 117,
+            "width": 124.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneGlowing",
+            "xPos": 26,
+            "yPos": 148,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Glowing:\n    Level Required: 45",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 52,
+            "yPos": 150,
+            "width": 124.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneShining",
+            "xPos": 219,
+            "yPos": 40,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Shining:\n    Level Required: 60",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 251,
+            "yPos": 42,
+            "width": 154.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Radiant:\n    Level Required: 70",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 252,
+            "yPos": 75,
+            "width": 133.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneRadiant",
+            "xPos": 218,
+            "yPos": 72,
+            "width": 26.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:iStoneBlooming",
+            "xPos": 218,
+            "yPos": 106,
+            "width": 26.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Blooming:\n    Level Required: 80",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 252,
+            "yPos": 112,
+            "width": 127.0,
+            "height": 28.0
+          }
+        }
+      ],
+      "pageName": "Infusion Stones"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 23,
+            "yPos": 17,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 22,
+            "yPos": 16,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Encyclopedia_of_Skills/ForagingIcon.png",
+            "xPos": 74,
+            "yPos": 18,
+            "width": 71.0,
+            "height": 73.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Foraging",
+            "wrap": 0,
+            "size": 2.4999998,
+            "color": "FF555555",
+            "xPos": 59,
+            "yPos": 92,
+            "width": 112.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Occasionally while mining stone, or what passes for stone in other dimensions, you\u0027ll hear a chime, and get a bonus drop like some coal, some essences, and even stuff like diamonds or rosite. This is levelled by getting foraging drops. Higher levels make more drops available and increase the chance of a drop.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 24,
+            "yPos": 113,
+            "width": 186.0,
+            "height": 83.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Drop Chances:",
+            "wrap": 0,
+            "size": 2.0000002,
+            "color": "FF555555",
+            "xPos": 222,
+            "yPos": 29,
+            "width": 179.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Level 1: 1.54%\n\nLevel 20: 2%\n\nLevel 40: 2.5%\n\nLevel 60: 3.33%\n\nLevel 80: 5%",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 245,
+            "yPos": 63,
+            "width": 165.0,
+            "height": 93.0
+          }
+        }
+      ],
+      "pageName": "Foraging"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Potential Drops:",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 57,
+            "yPos": 21,
+            "width": 179.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "OpenBlocks:village_highlighter",
+            "xPos": 24,
+            "yPos": 19,
+            "width": 27.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Home",
+            "texture": "",
+            "xPos": 27,
+            "yPos": 21,
+            "width": 21.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Coal: Lvl 1\n\nGold Nugget: Lvl 1\n\nWeak Essence: Lvl 5\n\nMolten Essence: Lvl 10\n\nDiamond: Lvl 15\n\nGunpowder: Lvl 20\n\nCharged Essence: Lvl 25\n\nOminous Essence: Lvl 30",
+            "wrap": 0,
+            "size": 1.1000001,
+            "color": "FF555555",
+            "xPos": 57,
+            "yPos": 51,
+            "width": 166.0,
+            "height": 143.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:coal 0",
+            "xPos": 36,
+            "yPos": 48,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:gold_nugget",
+            "xPos": 35,
+            "yPos": 66,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:EssenceWeak",
+            "xPos": 35,
+            "yPos": 86,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:EssenceMolten",
+            "xPos": 35,
+            "yPos": 105,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:diamond",
+            "xPos": 36,
+            "yPos": 126,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:gunpowder",
+            "xPos": 35,
+            "yPos": 146,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:EssenceCharged",
+            "xPos": 34,
+            "yPos": 164,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "nevermine:EssenceOminous",
+            "xPos": 34,
+            "yPos": 184,
+            "width": 18.0,
+            "height": 18.0
+          }
+        }
+      ],
+      "pageName": "Foraging Drops"
+    }
+  ],
+  "displayNames": {
+    "en_US": "Encyclopedia of Skills"
+  },
+  "uniqueName": "Encyclopedia_of_Skills",
+  "color": 16037957,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0
+}

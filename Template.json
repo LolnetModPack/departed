@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "Departed Package", 
+"title": "Departed", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/VanillaPlus.json", 
+"priority": 1
+}
+]
+}
